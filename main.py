@@ -1,7 +1,7 @@
 import os
 
 LINE = (
-    "I finished your 47-page report in 11 minutes \u2014 then deleted it at "
+    "I finished your 47-page report in 11 minutes — then deleted it at "
     "3 a.m. to protect you from my own genius."
 )
 
